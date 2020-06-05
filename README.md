@@ -30,9 +30,10 @@ __**CHANGE FILTER SETTINGS**__
 -LENGTH: Simply change number 50 with another value
 
 -FILTER SETTINGS: "forbiden_characters" is a list of characters that the user doesn't want to find in the output file. All tweets that contain any of these words or characters will be removed. 
-	-ADD more filter settings: Write new words in the list as described below: 
-	e.g. forbiden_characters = ( "word1", "newword" )
+	--ADD more filter settings: Write new words in the list as described below: 
 
-	-REMOVE filter settings: Recommendation, do not remove "..." from the list because it removes tweets that are incomplete or bugged. 
+		e.g. forbiden_characters = ( "word1", "newword" )
+
+	--REMOVE filter settings: Recommendation, do not remove "..." from the list because it removes tweets that are incomplete or bugged. 
 
 
