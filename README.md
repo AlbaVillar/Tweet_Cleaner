@@ -38,10 +38,10 @@
 
 **-Filter settings:** *"forbiden_characters"* is a list of characters that the user doesn't want to find in the output file. All tweets that contain any of these words or characters will be removed.
 
--ADD more filter settings: Write new words in the list as described below: 
+--**_Add_ more filter settings:** Write new words in the list as described below: 
 
 		e.g. forbiden_characters = ( "word1", "newword" )
 
--REMOVE filter settings: Recommendation, **do not remove "..."** from the list because it removes tweets that are incomplete or bugged. 
+--**_Remove_ filter settings:** Recommendation, **do not remove "..."** from the list because it removes tweets that are incomplete or bugged. 
 
 
